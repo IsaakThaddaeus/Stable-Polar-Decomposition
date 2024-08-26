@@ -1,0 +1,1 @@
+ implements a robust shape-matching algorithm, inspired by the paper ["A Robust Method to Extract the Rotational Part of Deformations" by Matthias Müller](https://matthias-research.github.io/pages/publications/stablePolarDecomp.pdf) et al.
